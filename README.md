@@ -36,8 +36,8 @@ Webpack's externals configuration for this. You can [read more here](https://web
 
 ## Related Project
 
- [vue-project](https://github.com/buithi/vue-project) `A project was designed to run this vue-library`
- [vue-library-template](https://github.com/prograhammer/vue-library-template)
+ [vue-project](https://github.com/buithi/vue-project) `A project was designed to run this vue-library`<br />
+ [vue-library-template](https://github.com/prograhammer/vue-library-template)<br />
 
 
  ## License
